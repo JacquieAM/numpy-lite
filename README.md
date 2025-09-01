@@ -7,11 +7,19 @@ This fork is designed for **AWS Lambda / serverless environments** with Python 3
 ## Features
 
 - Core array operations (`np.array`, `np.sum`, `np.mean`, indexing, slicing)
-- Minimal footprint (~6MB)
+- Minimal footprint (~8MB)
 - AWS Lambda / serverless ready
 - Stub modules provide informative errors if removed modules are imported
 
 ## Installation
+
+### Install via PYPI (recommended)
+
+The easiest way to install:
+```
+pip install numpy-lite
+```
+###Install from GitHub (for development or contributions)
 
 Clone or download the repository:
 
