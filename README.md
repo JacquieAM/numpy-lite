@@ -19,7 +19,7 @@ The easiest way to install:
 ```
 pip install numpy-lite
 ```
-###Install from GitHub (for development or contributions)
+### Install from GitHub (for development or contributions)
 
 Clone or download the repository:
 
